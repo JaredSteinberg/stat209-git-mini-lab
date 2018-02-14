@@ -1,0 +1,8 @@
+---
+title: "Mini Lab 3, 02/14"
+author: "Jared Steinberg"
+date: "2/14/2018"
+output: html_document
+---
+
+Exploring github.
